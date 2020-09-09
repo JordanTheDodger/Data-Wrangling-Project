@@ -1,6 +1,8 @@
 # Data-Wrangling-Project
 WeRateDogs
 
+*Note: If you want desire your own app, then please apply for a Twitter-Developer account and follow the steps for token authentication*
+
 **Overview:**
 **Twitter archive:** This file is downlaoded from udacity servers. It comprises of tweet url,id, source and so on.
 
